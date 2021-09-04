@@ -1,0 +1,80 @@
+header{
+    color: white;
+    background-color:#0f2330 ;
+    padding:80px 0;
+    text-align: center;
+    background-size: cover;
+}
+h1{
+    text-shadow: 3px 5px 4px grey;
+}
+.btn{
+    display:inline-block;
+    color:white;
+    font-weight: 500;
+    font-size: 20px;
+    background:#549da0 ;
+    border: none;
+    border-radius:6px;
+    padding: 12px 16px;
+    cursor: pointer;
+}
+.pit{
+    background: rgb(226, 226, 226);
+    color: black;
+}
+.tip{
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 2000px;
+}
+.pli{
+    width: 32%;
+    display:inline-block;
+    font-size: 16px;
+}
+.pli img{
+    width: 40%;
+    box-shadow: 0px 8px 16px 0px grey;
+}
+blockquote{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+blockquote p{
+    margin: 0px 0px 5px 0px;
+    font-size: 24px;
+}
+.YYY{
+    background:#7fe4e7 ;
+    color: white;
+}
+blockquote cite{
+    font-size: 16px;
+    font-style: italic;
+}
+footer{
+    background: #383838;
+    padding: 32px 0px;
+    text-align: center;
+    color: #868686;
+}
+footer ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+footer li{
+    display: inline-block;
+}
+footer li a{
+    padding: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+section{
+    padding: 40px 0;
+    text-align: center;
+}
